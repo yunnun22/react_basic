@@ -11,7 +11,7 @@ return(
                <Label 
                 todo={todo}
                 updateTodo = {updateTodo}
-                 deleteTodo ={deleteTodo}/>
+                deleteTodo = {deleteTodo}/>
               </div>
             );
           })
